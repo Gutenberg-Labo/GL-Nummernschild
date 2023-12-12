@@ -9,7 +9,7 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 ******
 
-## GL-Nummernschild-Mtl
+## GL-Nummernschild-Mtl （ドイツのナンバープレート）
 
 <img src="https://github.com/Gutenberg-Labo/GL-Nummernschild/blob/main/documents/GL-Nummernschild-Mtl.svg" width="95%" alt="GL-Nummernschild-Mtl - Open Source Font" />
 
@@ -22,7 +22,7 @@ This font supports Adobe Latin 2 character set.
 
 ******
 
-## GL-Nummernschild-Eng
+## GL-Nummernschild-Eng （ドイツのナンバープレート）
 
 <img src="https://github.com/Gutenberg-Labo/GL-Nummernschild/blob/main/documents/GL-Nummernschild-Eng.svg" width="95%" alt="GL-Nummernschild-Eng - Open Source Font" />
 
