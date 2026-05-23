@@ -1,6 +1,6 @@
-GL-Nummernschld-Eng: Adobe Western 2 character sets
+GL-Nummernschld-Eng: Adobe Western 3 character sets
 
-(C)2009-2018 Gutenberg Labo (http://gutenberg.osdn.jp/), All rights reserved.
+(C)2009-2026 Gutenberg Labo (https://github.com/Gutenberg-Labo), All rights reserved.
 
 "FE-Engschrift" designed by Karlgeorg Hoefer.
 We refered to "FZV - Anlange 4" (http://bundesrecht.juris.de/fzv/anlage_4_62.html, http://www.stvzo.de/stvzo/fzv/anlange_4.htm)
